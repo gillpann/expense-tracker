@@ -16,20 +16,25 @@ A modern, responsive, and easy-to-use frontend application for tracking your inc
 
 ---
 
-## 📦 Installation
+## 🚀 Getting Started
 
+### 1️⃣  Clone the repository:
 ```bash
-# 1. Clone the repository
 git clone https://github.com/username/expense-tracker.git
-
-# 2. Navigate into the project folder
 cd expense-tracker
+```
 
-# 3. Install dependencies
-npm install
+### 2️⃣  Install dependencies:
+```bash
+npm install  # or yarn install or pnpm install
+```
 
-# 4. Run the development server
-npm run dev
+### 3️⃣  Run the development server:
+```bash
+npm run dev  # or yarn dev or pnpm dev
+```
+---
 
 ## ✍️ Author
 Built with ❤️ by Ahmad Gilvan
+
